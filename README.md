@@ -1,6 +1,6 @@
-Gachon univ.\n
-Software_22
-Jung Jimin
+#Gachon univ.
+#Software_22
+#Jung Jimin
 
 <!--
 **jimin509/jimin509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
