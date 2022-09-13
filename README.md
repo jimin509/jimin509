@@ -1,7 +1,7 @@
 Gachon univ.<br>
-Software_22<br><br>
+Software_22<br>
 Republic of Korea, Seoul<br>
-Jung Jimin<br>
+<h3>Jung Jimin<h3><br>
 
 <!--
 **jimin509/jimin509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
